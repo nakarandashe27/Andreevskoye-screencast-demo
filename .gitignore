@@ -1,0 +1,12 @@
+# Only these deployable files belong in the public repository.
+*
+!/.gitignore
+!/.nojekyll
+!/LICENSE
+!/README.md
+!/index.html
+!/style.css
+!/unlock.js
+!/crypto.mjs
+!/manifest.json
+!/model.enc
